@@ -1,0 +1,8 @@
+Origin: PeterPan
+Label: PeterPan's Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: neverland 
+Architectures: iphoneos-arm
+Components: main
+Description: PeterPan's Cydia Repo
