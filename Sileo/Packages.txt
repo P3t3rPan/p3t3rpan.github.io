@@ -1,25 +1,51 @@
-Package: 
-Version: 
-Section: 
-Maintainer: 
+Package: com.peterpan.iconic
+Version: 1.1
+Section: Themes
+Maintainer: Peter Pan
 Depends: 
 Architecture: iphoneos-arm
-Filename: 
-Size: 
+Filename: debs//com.yourepo.peterpan.iconic.deb
+Size: 34206
 md5sum: 
-Description: 
-Name: 
-Author: 
+Description: Iconic A beautiful colored gradient and transparent theme with over 700 icons
+Name: Iconic
+Author: Peter Pan
 
-Package: 
-Version: 
-Section: 
-Maintainer: 
+Package: com.peterpan.blackLit
+Version: 1.2.1
+Section: Themes
+Maintainer: Peter Pan
 Depends: 
 Architecture: iphoneos-arm
-Filename: 
-Size: 
+Filename: debs//com.peterpan.blacklit.deb
+Size: 53779
 md5sum: 
-Description: 
-Name: 
-Author: 
+Description: BlackLit  a nice glowing theme with Tilted icons
+Name: BlackLit
+Author: Peter Pan
+
+Package: com.peterpan.chromatic
+Version: 1.0
+Section: Themes
+Maintainer: Peter Pan
+Depends: 
+Architecture: iphoneos-arm
+Filename: debs//com.peterpan.chromatic.deb
+Size: 39141
+md5sum: 
+Description: Chromatic a Chrome plated icon theme
+Name: Chromatic
+Author: Peter Pan
+
+Package: com.peterpan.supremeneonglow
+Version: 1.0.8
+Section: Themes
+Maintainer: Peter Pan
+Depends: 
+Architecture: iphoneos-arm
+Filename: debs//com.peterpan.supremeneonglow.deb
+Size: 26
+md5sum: 
+Description: alters the carrier on your homescreen (use with tweak Xeon)
+Name: Supreme Neon Glow
+Author: Peter Pan
