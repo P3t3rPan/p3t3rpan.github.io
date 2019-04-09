@@ -25,14 +25,14 @@ Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Themes/Chromatic.theme/IconBundles/Chromatic.png
 
 Package: com.yourepo.peterpan.iconic
-Version: 1.1
+Version: 1.2
 Section: Themes
 Maintainer: Peter Pan <mike130784@gmail.com>
 Architecture: iphoneos-arm
 Filename: debs//com.peterpan.iconic.deb
-Size: 35026186
-md5sum: 05840add5a6f2bf0431e00a62bc59998
-Description: A beautiful colored gradient and transparent theme with over 600 icons
+Size: 35024762
+md5sum: 0104518437406aeaeefbd7d367eb4eb1
+Description: A beautiful colored gradient and transparent theme with over 700 icons
 Name: Iconic
 Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Themes/Iconic.theme/IconBundles/Iconic.png
