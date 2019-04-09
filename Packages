@@ -35,7 +35,7 @@ md5sum: 05840add5a6f2bf0431e00a62bc59998
 Description: A beautiful colored gradient and transparent theme with over 600 icons
 Name: Iconic
 Author: Peter Pan <mike130784@gmail.com>
-Icon: file:///Library/Themes/Iconic.theme/IconBundles/com.iconic.peterpan-large.png
+Icon: file:///Library/Themes/Iconic.theme/IconBundles/Iconic.png
 
 Package: com.yourepo.peterpan.supremeneonglow
 Version: 1.0.8
