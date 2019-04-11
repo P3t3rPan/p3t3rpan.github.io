@@ -32,8 +32,6 @@ Architecture: iphoneos-arm
 Filename: debs//com.peterpan.iconic.deb
 Size: 34204
 md5sum: 05840add5a6f2bf0431e00a62bc59998
-Size: 35024762
-md5sum: 0104518437406aeaeefbd7d367eb4eb1
 Description: A beautiful colored gradient and transparent theme with over 700 icons
 Name: Iconic
 Author: Peter Pan <mike130784@gmail.com>
