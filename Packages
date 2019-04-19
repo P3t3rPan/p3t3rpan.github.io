@@ -1,52 +1,60 @@
 Package: com.yourepo.peterpan.blacklit
 Version: 1.2.1
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.peterpan.blacklit.deb
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.blacklit.deb
 Size: 55069430
-md5sum: 97c22cdf0fda6382b68d8fb0871fc017
+MD5sum: 97c22cdf0fda6382b68d8fb0871fc017
+SHA1: a5bf137744d36bd3ee85f698826c1c7b72eaa03a
+SHA256: 39edb770c006050786e44260e5dd17f198eeea8f0116fca1eb854d93dcc590c7
+Section: Themes
 Description: BlackLit  a nice glowing theme with Tilted icons
-Name: BlackLit
 Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Themes/Blacklit.theme/IconBundles/Blacklit.png
+Name: BlackLit
 
 Package: com.yourepo.peterpan.chromatic
 Version: 1.0
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.peterpan.chromatic.deb
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.chromatic.deb
 Size: 40080122
-md5sum: 8e58e956051f678484387e288f3c7cd9
+MD5sum: 8e58e956051f678484387e288f3c7cd9
+SHA1: d6a1ff0ccb1914bdf3f68bb752f2814b778476f8
+SHA256: 1a769d433315dd728e4c0273bf2f422f34738852c36fba6ca955d62b9b45ce56
+Section: Themes
 Description: Chromatic a Chrome plated icon theme
-Name: Chromatic
 Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Themes/Chromatic.theme/IconBundles/Chromatic.png
+Name: Chromatic
 
 Package: com.yourepo.peterpan.iconic
 Version: 1.4
-Section: Themes
-Maintainer: Peter Pan <mike130784@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.peterpan.iconic.deb
-Size: 34204
-md5sum: 05840add5a6f2bf0431e00a62bc59998
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.iconic.deb
+Size: 35215458
+MD5sum: e68eb78c2ea6bb567caa820273089787
+SHA1: 699f3723bbb4a17c036ebc4c867ec524281859cd
+SHA256: 8964e922a998a2a003a5d75434f5e2e13a1ad669ec6ff5ccc8e93ee298f602c7
+Section: Themes
 Description: A beautiful colored gradient and transparent theme with over 700 icons
-Name: Iconic
 Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Themes/Iconic.theme/IconBundles/Iconic.png
+Name: Iconic
 
 Package: com.yourepo.peterpan.supremeneonglow
 Version: 1.0.8
-Section: Xeon
-Maintainer: Peter Pan <mike130784@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.peterpan.supremeneonglow.deb
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.supremeneonglow.deb
 Size: 26596
-md5sum: 66b9713d0490d974cf52ac1f4f75a072
+MD5sum: 66b9713d0490d974cf52ac1f4f75a072
+SHA1: 927038f1ae92c1664828588ffbce1f7974a0e5e4
+SHA256: 655a61ab983da2e5f69897f1ea0e2ba5a770037589c379ee0395434fa7aecf61
+Section: Xeon
 Description: alters the carrier on your homescreen (use with tweak Xeon)
-Name: Supreme Neon Glow
 Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Zeppelin/Supreme Neon Glow/black@2x.png
+Name: Supreme Neon Glow
 
