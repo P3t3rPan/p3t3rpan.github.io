@@ -58,3 +58,62 @@ Author: Peter Pan <mike130784@gmail.com>
 Icon: file:///Library/Zeppelin/Supreme Neon Glow/black@2x.png
 Name: Supreme Neon Glow
 
+Package: com.yourepo.peterpan.iconicdock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.iconicdock.deb
+Size: 36406
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Docks
+Description: Matching Dock for Iconic theme , Use  iThemer for it to work
+Author: Peter Pan <mike130784@gmail.com>
+Icon: 
+Name: Iconic Dock
+
+Package: com.yourepo.peterpan.graphite
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.graphite.deb
+Size: 2737714
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Themes
+Description: A beautiful dark theme with glowing icons
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/graphite.theme/IconBundles/com.apple.AppStore-large.png
+Name: Graphite
+
+Package: com.yourepo.peterpan.metalback
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.metalback.deb
+Size: 3011402
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Themes
+Description: A beautiful Metallic theme with clear icons
+Author: Peter Pan <mike130784@gmail.com>
+Icon: file:///Library/Themes/metalback.theme/IconBundles/com.apple.AppStore-large.png
+Name: Metalback
+
+Package: com.yourepo.peterpan.maverickdock
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: debs/com.peterpan.maverickdock.deb
+Size: 149176
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Docks
+Description: A macOS Mavericks lookalike Dock theme  for Luke
+Author: Peter Pan <mike130784@gmail.com>
+Icon: 
+Name: Maverick Dock
